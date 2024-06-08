@@ -15,5 +15,3 @@ This is the Pureza Project: an initiative to create a responsive and interactive
 1- **TypeScript**
 
 2- **React**
-
-3- **Angular**
