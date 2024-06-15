@@ -13,7 +13,3 @@ This is the Pureza Project: an initiative to create a responsive and interactive
 
 ### Frontend
 1- **TypeScript**
-
-2- **React**
-
-3- **tailwindcss**
